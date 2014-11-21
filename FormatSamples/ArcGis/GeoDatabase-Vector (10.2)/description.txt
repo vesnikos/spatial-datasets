@@ -1,0 +1,42 @@
+FileGeodatabase that was created by ArcCatalog:
+
+It containts a single Feature of type Line. The name of the feature is SampleLine
+  - It doesn't contain M values.
+  - It doesn;t contain Z values.
+
+It has a defined coordinate system:
+    epsg:2100 Greek_Grid
+
+"""
+    Greek_Grid
+WKID: 2100 Authority: EPSG
+
+Projection: Transverse_Mercator
+False_Easting: 500000.0
+False_Northing: 0.0
+Central_Meridian: 24.0
+Scale_Factor: 0.9996
+Latitude_Of_Origin: 0.0
+Linear Unit: Meter (1.0)
+
+Geographic Coordinate System: GCS_GGRS_1987
+Angular Unit: Degree (0.0174532925199433)
+Prime Meridian: Greenwich (0.0)
+Datum: D_GGRS_1987
+  Spheroid: GRS_1980
+    Semimajor Axis: 6378137.0
+    Semiminor Axis: 6356752.314140356
+    Inverse Flattening: 298.257222101
+"""
+
+XY Tolerance is 0.001 Meters
+
+The database storage configuration keyword was set to default
+
+---
+
+it contains the fields :
+  - "ID" -> Text
+  - "Date" -> Date
+
+  NULLs allowable and no Default Value was set to either
