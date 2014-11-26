@@ -1,0 +1,18 @@
+Dataset Information:
+
+Dataset Name: World Bank - ImageCat Inc. - RIT Haiti Earthquake LiDAR dataset(Haiti)
+
+Dataset Acknowledgement: 
+LiDAR data were acquired by Rochester Institute of Technology and Kucera International, under sub-contract to ImageCat Inc. and funded by the Global Facility for Disaster Reduction and Recovery (GFDRR) hosted at The World Bank.
+
+Data Access Acknowledgement: This material is based on [data, processing] services provided by the OpenTopography Facility with support from the National Science Foundation under NSF Award Numbers 0930731 & 0930643
+
+Horizontal Coordinates: UTM Zone 18 N WGS84 Meters [EPSG: 32618]
+Vertical Coordinates: Orthometric (EGM96)
+
+Job Description:
+	User:[Guest] ----------
+	Job ID: 14169847176231390687349
+	Title: 
+	Description:
+
